@@ -1,0 +1,13 @@
+{
+    "name": "pranali/smile-care-web",
+    "description": "Smile Care Dental Appointment Booking System",
+    "authors": [
+        {
+            "name": "Pranali",
+            "email": "pranaliausarmal511@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
